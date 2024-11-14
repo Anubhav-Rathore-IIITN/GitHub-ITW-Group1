@@ -1,4 +1,4 @@
-Hello all, this is Anubhav Rathore - BT23ECE068, and this is my GitHub personal work right now. 
+Hello all, this is Aman kanaujiya - BT23ECE069, and this is my GitHub personal work right now. 
 This text file is mine and commited into GitHub locally. 
 I am from ECE Department and I love machines. 
 That's all for now, see you later.
